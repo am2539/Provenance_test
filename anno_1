@@ -1,7 +1,7 @@
 {
   "@type" : "sc:AnnotationList",
   "resources" : [ {
-    "@id" : "http://0.0.0.0:8888/annotation/1707322245008",
+    "@id" : "https://raw.githubusercontent.com/am2539/Provenance_test/main/anno_1",
     "@type" : "oa:Annotation",
     "dcterms:created" : "2024-02-07T16:10:45",
     "dcterms:modified" : "2024-02-07T16:10:45",
@@ -45,6 +45,6 @@
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   } ],
-  "@id" : "http://0.0.0.0:8888/annotation/list/2fe352657e65aaa1d62bc82a686edaa0.json",
+  "@id" : "https://raw.githubusercontent.com/am2539/Provenance_test/main/anno_1",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
 }

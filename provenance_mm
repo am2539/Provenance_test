@@ -34,7 +34,7 @@
     {
       "@type": "sc:Sequence",
       "viewingHint": "individuals",
-      "viewingDirection": "right-to-left",
+      "viewingDirection": "left-to-right",
       "canvases": [
         {
           "@type": "sc:Canvas",

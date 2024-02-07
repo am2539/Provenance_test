@@ -5,7 +5,7 @@
   "label": "Provenance_mm",
   "service": {
     "profile": "http://iiif.io/api/search/0/search",
-    "@id": "http://0.0.0.0:8888/search-api/772a4b4857fc648043bfdbc034860069/search",
+    "@id": "hhttps://raw.githubusercontent.com/am2539/Provenance_test/main/provenance_search",
     "@context": "http://iiif.io/api/search/0/context.json"  
 },
   "description": "Let's make some annotations!!",

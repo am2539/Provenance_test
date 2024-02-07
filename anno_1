@@ -1,1 +1,50 @@
-a
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "http://0.0.0.0:8888/annotation/1707322245008",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-07T16:10:45",
+    "dcterms:modified" : "2024-02-07T16:10:45",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Bookplate",
+      "chars" : "Bookplate"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Charles Bruce Ailesbury\n<a href=\"https://lib-cat.trin.cam.ac.uk/Search/Results?lookfor=Ailesbury&amp;type=AllFields&amp;filter%5B%5D=specialCollSubject_txtF_mv%3A%22Crewe%22\" target=\"_blank\" rel=\"noopener\">View Records",
+      "format" : "text/html",
+      "chars" : "<p>Charles Bruce Ailesbury</p>\n<p><a href=\"https://lib-cat.trin.cam.ac.uk/Search/Results?lookfor=Ailesbury&amp;type=AllFields&amp;filter%5B%5D=specialCollSubject_txtF_mv%3A%22Crewe%22\" target=\"_blank\" rel=\"noopener\">View Records</a></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Crewe Collection",
+      "chars" : "Crewe Collection"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Coat of arms",
+      "chars" : "Coat of arms"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://mss-cat.trin.cam.ac.uk/manuscripts/Provenance_mm.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=210,239,1268,1433"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M209.6457,238.7947h633.75497v0h633.75497v716.69536v716.69536h-633.75497h-633.75497v-716.69536z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_02889df5-c6ce-42cd-96d8-ae318447c511\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://mss-cat.trin.cam.ac.uk/manuscripts/Provenance_mm/canvas/001"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "http://0.0.0.0:8888/annotation/list/2fe352657e65aaa1d62bc82a686edaa0.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

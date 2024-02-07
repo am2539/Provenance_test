@@ -3,6 +3,11 @@
   "@type": "sc:Manifest",
   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/Provenance_mm.json",
   "label": "Provenance_mm",
+  "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "http://0.0.0.0:8888/search-api/772a4b4857fc648043bfdbc034860069/search",
+    "@context": "http://iiif.io/api/search/0/context.json"  
+},
   "description": "Let's make some annotations!!",
   "thumbnail": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/Provenance_mm%2F/full/,500/0/default.jpg",
   "metadata": [

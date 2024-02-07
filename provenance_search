@@ -1,0 +1,300 @@
+{
+  "startIndex": 0,
+  "within": {
+    "total": 8,
+    "@type": "sc:Layer"
+  },
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "http://0.0.0.0:8888/annotation/1707322245008",
+      "@type": "oa:Annotation",
+      "dcterms:created": "2024-02-07T16:10:45",
+      "dcterms:modified": "2024-02-07T16:10:45",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Bookplate",
+          "chars": "Bookplate"
+        },
+        {
+          "@type": "dctypes:Text",
+          "http://dev.llgc.org.uk/sas/full_text": "Charles Bruce Ailesbury\n<a href=\"https://lib-cat.trin.cam.ac.uk/Search/Results?lookfor=Ailesbury&amp;type=AllFields&amp;filter%5B%5D=specialCollSubject_txtF_mv%3A%22Crewe%22\" target=\"_blank\" rel=\"noopener\">View Records",
+          "format": "text/html",
+          "chars": "<p>Charles Bruce Ailesbury</p>\n<p><a href=\"https://lib-cat.trin.cam.ac.uk/Search/Results?lookfor=Ailesbury&amp;type=AllFields&amp;filter%5B%5D=specialCollSubject_txtF_mv%3A%22Crewe%22\" target=\"_blank\" rel=\"noopener\">View Records</a></p>"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Crewe Collection",
+          "chars": "Crewe Collection"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Coat of arms",
+          "chars": "Coat of arms"
+        }
+      ],
+      "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/Provenance_mm/canvas/001#xywh=210,239,1268,1433",
+      "motivation": [
+        "oa:commenting",
+        "oa:tagging"
+      ],
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "label": "Bookplate"
+    },
+    {
+      "@id": "http://0.0.0.0:8888/annotation/1707322245008",
+      "@type": "oa:Annotation",
+      "dcterms:created": "2024-02-07T16:10:45",
+      "dcterms:modified": "2024-02-07T16:10:45",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Bookplate",
+          "chars": "Bookplate"
+        },
+        {
+          "@type": "dctypes:Text",
+          "http://dev.llgc.org.uk/sas/full_text": "Charles Bruce Ailesbury\n<a href=\"https://lib-cat.trin.cam.ac.uk/Search/Results?lookfor=Ailesbury&amp;type=AllFields&amp;filter%5B%5D=specialCollSubject_txtF_mv%3A%22Crewe%22\" target=\"_blank\" rel=\"noopener\">View Records",
+          "format": "text/html",
+          "chars": "<p>Charles Bruce Ailesbury</p>\n<p><a href=\"https://lib-cat.trin.cam.ac.uk/Search/Results?lookfor=Ailesbury&amp;type=AllFields&amp;filter%5B%5D=specialCollSubject_txtF_mv%3A%22Crewe%22\" target=\"_blank\" rel=\"noopener\">View Records</a></p>"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Crewe Collection",
+          "chars": "Crewe Collection"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Coat of arms",
+          "chars": "Coat of arms"
+        }
+      ],
+      "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/Provenance_mm/canvas/001#xywh=210,239,1268,1433",
+      "motivation": [
+        "oa:commenting",
+        "oa:tagging"
+      ],
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "label": "Bookplate"
+    },
+    {
+      "@id": "http://0.0.0.0:8888/annotation/1707322245008",
+      "@type": "oa:Annotation",
+      "dcterms:created": "2024-02-07T16:10:45",
+      "dcterms:modified": "2024-02-07T16:10:45",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Bookplate",
+          "chars": "Bookplate"
+        },
+        {
+          "@type": "dctypes:Text",
+          "http://dev.llgc.org.uk/sas/full_text": "Charles Bruce Ailesbury\n<a href=\"https://lib-cat.trin.cam.ac.uk/Search/Results?lookfor=Ailesbury&amp;type=AllFields&amp;filter%5B%5D=specialCollSubject_txtF_mv%3A%22Crewe%22\" target=\"_blank\" rel=\"noopener\">View Records",
+          "format": "text/html",
+          "chars": "<p>Charles Bruce Ailesbury</p>\n<p><a href=\"https://lib-cat.trin.cam.ac.uk/Search/Results?lookfor=Ailesbury&amp;type=AllFields&amp;filter%5B%5D=specialCollSubject_txtF_mv%3A%22Crewe%22\" target=\"_blank\" rel=\"noopener\">View Records</a></p>"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Crewe Collection",
+          "chars": "Crewe Collection"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Coat of arms",
+          "chars": "Coat of arms"
+        }
+      ],
+      "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/Provenance_mm/canvas/001#xywh=210,239,1268,1433",
+      "motivation": [
+        "oa:commenting",
+        "oa:tagging"
+      ],
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "label": "Bookplate"
+    },
+    {
+      "@id": "http://0.0.0.0:8888/annotation/1707322245008",
+      "@type": "oa:Annotation",
+      "dcterms:created": "2024-02-07T16:10:45",
+      "dcterms:modified": "2024-02-07T16:10:45",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Bookplate",
+          "chars": "Bookplate"
+        },
+        {
+          "@type": "dctypes:Text",
+          "http://dev.llgc.org.uk/sas/full_text": "Charles Bruce Ailesbury\n<a href=\"https://lib-cat.trin.cam.ac.uk/Search/Results?lookfor=Ailesbury&amp;type=AllFields&amp;filter%5B%5D=specialCollSubject_txtF_mv%3A%22Crewe%22\" target=\"_blank\" rel=\"noopener\">View Records",
+          "format": "text/html",
+          "chars": "<p>Charles Bruce Ailesbury</p>\n<p><a href=\"https://lib-cat.trin.cam.ac.uk/Search/Results?lookfor=Ailesbury&amp;type=AllFields&amp;filter%5B%5D=specialCollSubject_txtF_mv%3A%22Crewe%22\" target=\"_blank\" rel=\"noopener\">View Records</a></p>"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Crewe Collection",
+          "chars": "Crewe Collection"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Coat of arms",
+          "chars": "Coat of arms"
+        }
+      ],
+      "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/Provenance_mm/canvas/001#xywh=210,239,1268,1433",
+      "motivation": [
+        "oa:commenting",
+        "oa:tagging"
+      ],
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "label": "Bookplate"
+    },
+    {
+      "@id": "http://0.0.0.0:8888/annotation/1707323066258",
+      "@type": "oa:Annotation",
+      "dcterms:created": "2024-02-07T16:24:26",
+      "dcterms:modified": "2024-02-07T16:24:26",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Crewe Collection",
+          "chars": "Crewe Collection"
+        },
+        {
+          "@type": "dctypes:Text",
+          "http://dev.llgc.org.uk/sas/full_text": "John Anstruther\n<a href=\"https://lib-cat.trin.cam.ac.uk/Record/cbbca3b2-12bd-4e4a-92bd-5b4b8ef8c423\" target=\"_blank\" rel=\"noopener\">View Records",
+          "format": "text/html",
+          "chars": "<p>John Anstruther</p>\n<p><a href=\"https://lib-cat.trin.cam.ac.uk/Record/cbbca3b2-12bd-4e4a-92bd-5b4b8ef8c423\" target=\"_blank\" rel=\"noopener\">View Records</a></p>"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Coat of arms",
+          "chars": "Coat of arms"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "bookplate",
+          "chars": "bookplate"
+        }
+      ],
+      "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/Provenance_mm/canvas/002#xywh=44,46,779,923",
+      "motivation": [
+        "oa:commenting",
+        "oa:tagging"
+      ],
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "label": "Crewe Collection"
+    },
+    {
+      "@id": "http://0.0.0.0:8888/annotation/1707323066258",
+      "@type": "oa:Annotation",
+      "dcterms:created": "2024-02-07T16:24:26",
+      "dcterms:modified": "2024-02-07T16:24:26",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Crewe Collection",
+          "chars": "Crewe Collection"
+        },
+        {
+          "@type": "dctypes:Text",
+          "http://dev.llgc.org.uk/sas/full_text": "John Anstruther\n<a href=\"https://lib-cat.trin.cam.ac.uk/Record/cbbca3b2-12bd-4e4a-92bd-5b4b8ef8c423\" target=\"_blank\" rel=\"noopener\">View Records",
+          "format": "text/html",
+          "chars": "<p>John Anstruther</p>\n<p><a href=\"https://lib-cat.trin.cam.ac.uk/Record/cbbca3b2-12bd-4e4a-92bd-5b4b8ef8c423\" target=\"_blank\" rel=\"noopener\">View Records</a></p>"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Coat of arms",
+          "chars": "Coat of arms"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "bookplate",
+          "chars": "bookplate"
+        }
+      ],
+      "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/Provenance_mm/canvas/002#xywh=44,46,779,923",
+      "motivation": [
+        "oa:commenting",
+        "oa:tagging"
+      ],
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "label": "Crewe Collection"
+    },
+    {
+      "@id": "http://0.0.0.0:8888/annotation/1707323066258",
+      "@type": "oa:Annotation",
+      "dcterms:created": "2024-02-07T16:24:26",
+      "dcterms:modified": "2024-02-07T16:24:26",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Crewe Collection",
+          "chars": "Crewe Collection"
+        },
+        {
+          "@type": "dctypes:Text",
+          "http://dev.llgc.org.uk/sas/full_text": "John Anstruther\n<a href=\"https://lib-cat.trin.cam.ac.uk/Record/cbbca3b2-12bd-4e4a-92bd-5b4b8ef8c423\" target=\"_blank\" rel=\"noopener\">View Records",
+          "format": "text/html",
+          "chars": "<p>John Anstruther</p>\n<p><a href=\"https://lib-cat.trin.cam.ac.uk/Record/cbbca3b2-12bd-4e4a-92bd-5b4b8ef8c423\" target=\"_blank\" rel=\"noopener\">View Records</a></p>"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Coat of arms",
+          "chars": "Coat of arms"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "bookplate",
+          "chars": "bookplate"
+        }
+      ],
+      "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/Provenance_mm/canvas/002#xywh=44,46,779,923",
+      "motivation": [
+        "oa:commenting",
+        "oa:tagging"
+      ],
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "label": "Crewe Collection"
+    },
+    {
+      "@id": "http://0.0.0.0:8888/annotation/1707323066258",
+      "@type": "oa:Annotation",
+      "dcterms:created": "2024-02-07T16:24:26",
+      "dcterms:modified": "2024-02-07T16:24:26",
+      "resource": [
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Crewe Collection",
+          "chars": "Crewe Collection"
+        },
+        {
+          "@type": "dctypes:Text",
+          "http://dev.llgc.org.uk/sas/full_text": "John Anstruther\n<a href=\"https://lib-cat.trin.cam.ac.uk/Record/cbbca3b2-12bd-4e4a-92bd-5b4b8ef8c423\" target=\"_blank\" rel=\"noopener\">View Records",
+          "format": "text/html",
+          "chars": "<p>John Anstruther</p>\n<p><a href=\"https://lib-cat.trin.cam.ac.uk/Record/cbbca3b2-12bd-4e4a-92bd-5b4b8ef8c423\" target=\"_blank\" rel=\"noopener\">View Records</a></p>"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "Coat of arms",
+          "chars": "Coat of arms"
+        },
+        {
+          "@type": "oa:Tag",
+          "http://dev.llgc.org.uk/sas/full_text": "bookplate",
+          "chars": "bookplate"
+        }
+      ],
+      "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/Provenance_mm/canvas/002#xywh=44,46,779,923",
+      "motivation": [
+        "oa:commenting",
+        "oa:tagging"
+      ],
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "label": "Crewe Collection"
+    }
+  ],
+  "@id": "",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
